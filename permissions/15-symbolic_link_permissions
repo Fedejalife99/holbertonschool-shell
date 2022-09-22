@@ -1,2 +1,2 @@
 #!/bin/bash
-lchown _hello vicent:staff
+lchown vicent:staff _hello
