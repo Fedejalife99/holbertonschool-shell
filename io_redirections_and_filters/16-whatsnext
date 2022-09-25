@@ -1,2 +1,2 @@
 #!/bin/bash
-find -l -name "root" /etc/passwd |head -3
+cat /etc/passwd|grep root | head -3
